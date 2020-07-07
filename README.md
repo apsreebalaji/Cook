@@ -1,1 +1,2 @@
 # Cook
+The number of people dying due to hunger per year is having a high leap as of now. And there are people out here who happily waste food. In order to reduce the amount of food materials wasted, and to teach any one to cook, our web portal would be useful. This works on a basic process of just getting the available ingredients as the input and displaying whatever are the possible dishes a person can make out of it. Using our portal, another big difference that is going to take place is that there will also be an increase in number of male cooks.
